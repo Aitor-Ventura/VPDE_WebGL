@@ -19,6 +19,6 @@ Una vez se tenga el comportamiento deseado en el juego, basta con buildear el pr
 
 1. ```File -> Build Settings```
 2. Seleccionar ```WebGL``` y seguidamente clic en ```Switch Platform```
-3. Construir el proyecto en una carpeta elegida. Una vez se haya elegido la carpeta deseada, subirla como único repositorio GitHub, o sus contenidos en la carpeta raíz del propio repositorio del proyecto.
+3. Construir el proyecto en una carpeta elegida.
 4. Comprimir la carpeta en un archivo ```.zip```.
 5. Ir a itch.io y crear un nuevo proyecto. Establecer un nombre, una URL, su precio... Una vez esté todo hecho, subir el archivo ```.zip``` creado previamente.
